@@ -1,0 +1,53 @@
+body{
+    background-color: blueviolet;
+}
+/* .box{
+    background-color: orange;
+    height: 40vh;
+}
+ .navbar{
+    background-color: green;
+    height: 100%;
+}
+.navbar{
+    background-color: yellow;
+    height: 6oopx;
+    align-content: center;
+}
+.main{
+    background-color: blue;
+height: 100%;}
+.box3{
+    background-color: pink;
+    height: 100%;
+}   */
+
+.navbarDesign{
+    height: 120px;
+}
+
+.main{
+    height: 360px;
+}
+ .aside{
+    height: 150px;
+    background-color: brown;
+}
+.aside .box1{
+    background-color: aqua;
+}
+.aside .box2{
+    background-color: rgb(63, 8, 145);
+}
+.aside .box3{
+    background-color: rgb(14, 197, 36);
+}
+
+.aside .box3{
+    background-color: #c50e9a;
+}
+.footer{
+    background-color: blue;
+    height: 120px;
+}
+
